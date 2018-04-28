@@ -1,6 +1,6 @@
 # HW \#7 & 8
 
- - Ссылка на визуализацию: https://asmiturich.github.io/hw7-8/
+ - Ссылка на визуализацию: https://asmiturich.github.io/hw8/
  - [Файл в формате PDF](hw8.pdf)
 
 ### Вывод
